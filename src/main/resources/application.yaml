@@ -1,0 +1,25 @@
+server:
+  port: 9090
+  tomcat:
+    max-connections: 2000 # Maximum connections
+    accept-count: 200     # Maximum waiting number
+  servlet:
+    context-path: /
+
+spring:
+  threads:
+    virtual:
+      enabled: true
+  application:
+    name: monitoring
+  cloud:
+    kubernetes:
+      discovery:
+        catalogServicesWatchDelay: 5000
+        service-labels:
+          type: spring-boot
+  boot:
+    admin:
+      monitor:
+        status-interval: 3s
+        status-lifetime: 3s
