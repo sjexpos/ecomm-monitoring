@@ -7,6 +7,9 @@
 [![Issues](https://img.shields.io/github/issues-search/sjexpos/ecomm-monitoring?query=is%3Aopen&label=issues&style=plastic)](https://github.com/sjexpos/ecomm-monitoring/issues)
 [![Commits](https://img.shields.io/github/last-commit/sjexpos/ecomm-monitoring?logo=github&style=plastic)](https://github.com/sjexpos/ecomm-monitoring/commits)
 
+[![Docker pulls](https://img.shields.io/docker/pulls/sjexposecomm/monitoring?logo=docker&style=plastic)](https://hub.docker.com/r/sjexposecomm/monitoring)
+[![Docker size](https://img.shields.io/docker/image-size/sjexposecomm/monitoring?logo=docker&style=plastic)](https://hub.docker.com/r/sjexposecomm/monitoring/tags)
+
 ![](docs/images/arch-monitoring.png)
 
 This microservice is responsible for ...
