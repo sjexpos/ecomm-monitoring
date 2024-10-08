@@ -11,7 +11,6 @@
 
 This microservice is responsible for ...
 
-
 ## Framework
 
 * [Spring Boot 3.3.2](https://spring.io/projects/spring-boot/)
