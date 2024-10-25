@@ -23,3 +23,18 @@ spring:
       monitor:
         status-interval: 3s
         status-lifetime: 3s
+
+management:
+  server:
+    port: ${server.port}
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      probes:
+        enabled: true
+      show-details: always
+      show-components: always
+
