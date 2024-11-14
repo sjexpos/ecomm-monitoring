@@ -16,6 +16,7 @@ spring:
     kubernetes:
       discovery:
         catalogServicesWatchDelay: 5000
+        primary-port-name: management-traffic
         service-labels:
           type: spring-boot
   boot:
