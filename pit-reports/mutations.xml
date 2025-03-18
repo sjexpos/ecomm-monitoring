@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutations partial="true">
+<mutation detected='false' status='NO_COVERAGE' numberOfTestsRun='0'><sourceFile>MonitoringServerApplication.java</sourceFile><mutatedClass>io.oigres.ecomm.monitoring.MonitoringServerApplication</mutatedClass><mutatedMethod>main</mutatedMethod><methodDescription>([Ljava/lang/String;)V</methodDescription><lineNumber>33</lineNumber><mutator>org.pitest.mutationtest.engine.gregor.mutators.NonVoidMethodCallMutator</mutator><indexes><index>5</index></indexes><blocks><block>0</block></blocks><killingTest/><description>removed call to org/springframework/boot/SpringApplication::run</description></mutation>
+</mutations>

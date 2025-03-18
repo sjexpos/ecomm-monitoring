@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='setBeanFactory(Lorg/springframework/beans/factory/BeanFactory;)V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='setBeanFactory(Lorg/springframework/beans/factory/BeanFactory;)V' number='4'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='setBeanFactory(Lorg/springframework/beans/factory/BeanFactory;)V' number='3'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;clinit&gt;()V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;init&gt;()V' number='2'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;clinit&gt;()V' number='2'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;init&gt;()V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='setBeanFactory(Lorg/springframework/beans/factory/BeanFactory;)V' number='5'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;init&gt;()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests' method='&lt;init&gt;()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests' method='&lt;init&gt;()V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='3'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='6'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='5'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='2'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$BIND_CALLBACKS(Ljava/lang/Object;)V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests' method='contextLoads()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication' method='&lt;init&gt;()V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication' method='&lt;init&gt;()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='3'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='4'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='1'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='2'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK2()V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$SET_STATIC_CALLBACKS([Lorg/springframework/cglib/proxy/Callback;)V' number='0'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='5'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+<block classname='io.oigres.ecomm.monitoring.MonitoringServerApplication$$SpringCGLIB$$0' method='CGLIB$STATICHOOK1()V' number='6'><tests>
+<test name='io.oigres.ecomm.monitoring.MonitoringServerApplicationTests.[engine:junit-jupiter]/[class:io.oigres.ecomm.monitoring.MonitoringServerApplicationTests]/[method:contextLoads()]'/>
+</tests>
+</block>
+</coverage>
